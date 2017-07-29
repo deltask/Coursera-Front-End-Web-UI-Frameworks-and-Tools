@@ -1,0 +1,27 @@
+{
+  "name": "confusion",
+  "description": "website for an restaurant",
+  "main": "index.html",
+  "keywords": [
+    "confusion",
+    "Fusion",
+    "Restaurant"
+  ],
+  "authors": [
+    "Arjun aka Batman"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "fontawesome#^4.7.0"
+  }
+}
